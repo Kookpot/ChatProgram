@@ -5,4 +5,5 @@ It implements in a simple way bidirectional client-server communication.
 
 More info cna be found here :
 https://en.wikipedia.org/wiki/XML-RPC
+
 http://xml-rpc.net/
