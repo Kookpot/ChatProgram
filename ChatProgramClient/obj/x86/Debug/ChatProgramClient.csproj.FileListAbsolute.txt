@@ -1,9 +1,0 @@
-C:\Users\koenp\Documents\GitHub\Fun\ChatProgram (XMLRPC)\ChatProgramClient\bin\Debug\ChatProgramClient.exe.config
-C:\Users\koenp\Documents\GitHub\Fun\ChatProgram (XMLRPC)\ChatProgramClient\bin\Debug\ChatProgramClient.exe
-C:\Users\koenp\Documents\GitHub\Fun\ChatProgram (XMLRPC)\ChatProgramClient\bin\Debug\ChatProgramClient.pdb
-C:\Users\koenp\Documents\GitHub\Fun\ChatProgram (XMLRPC)\ChatProgramClient\bin\Debug\ChatProgramInterface.dll
-C:\Users\koenp\Documents\GitHub\Fun\ChatProgram (XMLRPC)\ChatProgramClient\bin\Debug\CookComputing.XmlRpcV2.dll
-C:\Users\koenp\Documents\GitHub\Fun\ChatProgram (XMLRPC)\ChatProgramClient\bin\Debug\ChatProgramInterface.pdb
-C:\Users\koenp\Documents\GitHub\Fun\ChatProgram (XMLRPC)\ChatProgramClient\obj\x86\Debug\ChatProgramClient.csprojResolveAssemblyReference.cache
-C:\Users\koenp\Documents\GitHub\Fun\ChatProgram (XMLRPC)\ChatProgramClient\obj\x86\Debug\ChatProgramClient.exe
-C:\Users\koenp\Documents\GitHub\Fun\ChatProgram (XMLRPC)\ChatProgramClient\obj\x86\Debug\ChatProgramClient.pdb
